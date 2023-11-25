@@ -1,4 +1,5 @@
 #! /bin/bash
+echo "krishna"
 read -p "input:" input
 len=$(echo -n $input | wc -c)
 
